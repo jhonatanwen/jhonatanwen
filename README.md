@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonatanwen
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Django and Node.js
+- 🌱 I’m currently learning .Net and Node.js
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me: wendeljhonatan@gmail.com
 
