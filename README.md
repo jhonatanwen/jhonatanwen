@@ -1,8 +1,8 @@
 ## 👋 Hello, comrade. Jhonatan here! 🙂
 
-- :brazil: Todim brasileiro e fortalezense
+- :brazil: Brasileiro e fortalezense
 - 🗄️ Back-end kind of developer but would love to contribute anywhere
-- 👨‍💻 Actually a Software Enginner at Bellocopo
+- 👨‍💻 Actually working as a Software Enginner at Bellocopo
 - 📚 Computer Science Major in progress at Federal Institute of Education Science and Technology of Ceará (IFCE)
 - 📫 Contact at LinkedIn or E-mail
 - ⚡ Trivia: <ul> <li>I like: <ul> <li>RPG <li>RTS<li>Card Games<li>Economy</ul> <li>I love:<ul> <li>Cooking<li>Music<li>Learning random things and talking about them for hours<li>History</ul></ul>
