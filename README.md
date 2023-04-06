@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/> </div>
 
-### My stats
+### My Stats
 
 ![Jhonatan Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=ocean_dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=ocean_dark)<br>
