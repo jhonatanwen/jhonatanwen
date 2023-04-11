@@ -1,4 +1,9 @@
-## 👋 Hello, comrade. Jhonatan here! 🙂
+### 👋 Hello, comrade. Jhonatan here! 🙂
+
+<div align="center">
+    <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="200"/>
+</div>
+
 ### About me
 - :brazil: Brasileiro e fortalezense
 - 🗄️ Back-end kind of developer but would love to contribute anywhere
