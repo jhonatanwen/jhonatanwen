@@ -4,7 +4,8 @@
     <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif" width="200"/>
 </div>
 
-### About me
+#### About me
+
 - :brazil: Brasileiro e fortalezense
 - 🗄️ Back-end kind of developer but would love to contribute anywhere
 - 👨‍💻 Actually working as a Software Enginner at Bellocopo
@@ -12,7 +13,7 @@
 - 📫 Contact at LinkedIn or E-mail
 - ⚡ Trivia: <ul> <li>I like: <ul> <li>RPG <li>RTS<li>Card Games<li>Economy</ul> <li>I love:<ul> <li>Cooking<li>Music<li>Learning random things and talking about them for hours<li>History</ul></ul>
 
-### Used Technologies
+#### Used Technologies
 
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="55"/>
@@ -20,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/> </div>
 
-### My Stats
+#### My Stats
 
 ![Jhonatan Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=ocean_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=ocean_dark)<br>
 (_this langs stats don't count private repos_)
