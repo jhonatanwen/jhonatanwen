@@ -3,7 +3,7 @@
 ### About me
 
 Brazilian guy that loves the poetry of coding. Actually working as a Software Enginner at Bellocopo. Computer Science Major in progress at Federal Institute of Education Science and Technology of Ceará (IFCE).
-<br>Contact at LinkedIn or E-mail
+<br>Contact me at LinkedIn or E-mail
 
 ### Used Technologies
 
