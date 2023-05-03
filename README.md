@@ -1,11 +1,11 @@
 ## 👋 Hello there. Jhonatan here! 🙂
 
-#### About me
+### About me
 
 Brazilian guy that loves the poetry of coding. Actually working as a Software Enginner at Bellocopo. Computer Science Major in progress at Federal Institute of Education Science and Technology of Ceará (IFCE).
 <br>Contact at LinkedIn or E-mail
 
-#### Used Technologies
+### Used Technologies
 
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
@@ -13,7 +13,7 @@ Brazilian guy that loves the poetry of coding. Actually working as a Software En
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> </div>
 
-#### My Stats
+### My Stats
 
 ![Jhonatan Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=ocean_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=ocean_dark)<br>
 (_this langs stats don't count private repos_)
