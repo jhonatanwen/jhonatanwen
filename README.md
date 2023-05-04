@@ -15,7 +15,8 @@ Brazilian guy that loves the poetry of coding. Actually working as a Software En
 
 ### My Stats
 
-![Jhonatan Wendel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=ocean_dark) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=ocean_dark)<br>
+![Jhonatan Wendel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=ocean_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=ocean_dark)<br>
 (_this langs stats don't count private repos_)
 
 <div>
