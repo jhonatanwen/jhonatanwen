@@ -15,7 +15,7 @@ Brazilian guy that loves the poetry of coding. Actually working as a Software En
 
 ### My Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=dark" width="419" heigth="159"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439" height="165"/><br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439" height="159"/><br>
 (_this langs stats don't count private repos_)
 
 <div>
