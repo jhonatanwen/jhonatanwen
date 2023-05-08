@@ -14,7 +14,8 @@ Brazilian guy that loves the poetry of coding. Actually working as a Software En
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> </div>
 
 ### My Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=dark" width="439" heigth="159"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439" height="159"/><br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=dark" width="439">
+<br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439"/><br>
 (_this langs stats don't count private repos_)
 
 <div>
