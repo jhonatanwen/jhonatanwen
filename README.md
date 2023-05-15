@@ -13,7 +13,7 @@ My name is Jhonatan Wendel, I'm a brazilian guy that loves the poetry of coding.
 
 ## 📊 Github Stats:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=dark" width="439">
-<br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439"/><br>
+<br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanwen&layout=compact&theme=dark" width="439"/>
 
 # 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jhonatanwen&theme=nord&no-frame=false&no-bg=true&margin-w=4)
