@@ -9,7 +9,7 @@ My name is Jhonatan Wendel, I'm a brazilian guy that loves the poetry of coding.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> </div>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonatan-wendel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonatanwen)
 
 ## 📊 Github Stats:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanwen&count_private=true&show_icons=true&theme=dark" width="439">
