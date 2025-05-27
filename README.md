@@ -1,5 +1,5 @@
 ## 📙 About me:
-My name is Jhonatan Wendel, I'm a brazilian computer guy. I'm getting my CS Major at Federal Institute of Education Science and Technology of Ceará (IFCE).
+My name is Jhonatan Wendel, and I'm a Brazilian computer enthusiast. I'm currently pursuing my Computer Science degree at the Federal Institute of Education, Science, and Technology of Ceará (IFCE).
 
 ## 👨🏽‍💻 Tech Stack:
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
